@@ -2,7 +2,7 @@
 -  I’m interested in blockchain technology, OnChain NFTs, Ordinals, Markdowns and decentralized applications.
 -  I’m currently learning smart contract development and web3 development.
 -  I’m looking to collaborate on innovative blockchain projects and open-source initiatives.
--  How to reach me: You can reach out to me through FindHappy.io
+-  How to reach me: You can reach out to me through [FindHappy.io](https://findhappy.io/)
 
 
 <!---
